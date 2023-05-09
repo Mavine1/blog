@@ -40,5 +40,6 @@ body{
     line-height: 1.6;
     color: var(--color-gray-900);
     overflow-x:hidden;
-    background
+    background:var(--color-bg);
+    font-size: 0.9rem;
 }
