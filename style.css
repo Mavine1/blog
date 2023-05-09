@@ -116,5 +116,9 @@ nav button{
     gap: 4rem;
 }
 .nav_profile{
-    position: ;
+    position: relative;
+    cursor:pointer;
+}
+.nav_profile ul{
+    position:absolute;
 }
