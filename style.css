@@ -126,6 +126,6 @@ nav button{
     display:flex;
     flex-direction:column;
     box-shadow: 0 3rem 3rem rgba(0,0,0,0.4);
-    background: var(-);
-
+    background: var(--color-gray-900);
 }
+.nav_profile ul li a
