@@ -133,6 +133,7 @@ nav button{
     display: block;
     width: 100%;
 }
-.nav_profile ul li a:last-child{
+.nav_profile ul li:last-child a {
     background: var(--color-red);
+    color: var(--color-bg)
 }
