@@ -49,5 +49,10 @@ body{
     margin-inline: auto;
 }
 section {
-
+margin-top: 3rem;
+width: 100w;
+}
+h1,h2,h3,h4,h5{
+    color:var(--color-white);
+    line
 }
