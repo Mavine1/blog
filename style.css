@@ -82,7 +82,7 @@ img {
 }
 /*-----Nav---*/
 nav{
-background: var(--color-primary);
+background: var(--color-primary-variant);
 width:100vw;
 height:4.5rem;
 position:fixed;
