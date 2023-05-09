@@ -73,5 +73,11 @@ h4{
 }
 a {
     color:var(--color-white);
-    transition: var()
+    transition: var(-transition);
 }
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+<!-----Nav---*/
