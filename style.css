@@ -94,5 +94,6 @@ nav button{
     display:none;
 }
 .nav_container{
-    
+    height:100%;
+    display: flex;
 }
