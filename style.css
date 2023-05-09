@@ -123,5 +123,7 @@ nav button{
     position:absolute;
     top: 125%;
     right: 0;
-    display:
+    display:flex;
+    flex-direction:column;
+    box-shadow: 0 3rem 3rem rgba(0,0,0,0);
 }
