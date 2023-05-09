@@ -106,3 +106,8 @@ nav button{
     overflow: hidden;
     border: 0.3rem solid var(--color-bg);
 }
+.nav_logo{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.
