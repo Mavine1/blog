@@ -65,5 +65,9 @@ h2{
     margin: 1rem 0;
 }
 h3{
-    
+    font-size: 1.1rem;
+    image-rendering:0.8rem 0 0.5rem;
+}
+h4{
+    font-size: 1rem;
 }
