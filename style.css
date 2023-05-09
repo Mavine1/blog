@@ -3,5 +3,9 @@
     --color-primary:hsl(242,91%,69%,18%);
     --color-primary-variant:#5854c7;
     --color-red:#da0f3f;
-    --color-red
+    --color-red-light:hsl(346,87%,46%,15%);
+    --color-green:#00c476;
+    --color-green-light:hsl(156,100%,38%,15%);
+    --color-gray-900:#1e1e66;
+    --color-gray-700:#2d2b7c;
 }
