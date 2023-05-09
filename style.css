@@ -103,5 +103,6 @@ nav button{
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
-    overflow
+    overflow: hidden;
+    border: 0.3rem solid var(--color-bg);
 }
