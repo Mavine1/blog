@@ -168,5 +168,6 @@ nav button{
 }
 .post:hover .post_thumbnail img {
     filter: saturate(0);
+    transform: filter 500ms ease;
 }
 
