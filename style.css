@@ -146,6 +146,7 @@ nav button{
 }
 /*....Featured css....*/
 .category_button{
-  background: ;  
+  background: var(--color-primary-light);
+  color: var(--color)  
 }
 
