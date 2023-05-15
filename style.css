@@ -206,8 +206,8 @@ margin-bottom: 5rem;
 /*---Category----*/
 .category_buttons {
     padding: 4rem 0;
-    border-top: 2px solid var var(--color-gray-300);
-    border-bottom: 2px solid var(--color-gray-300);
+    border-top: 2px solid var var(--color-primary-variant);
+    border-bottom: 2px solid var(--color-primary-variant);
 }
 
 .category_buttons-container{
