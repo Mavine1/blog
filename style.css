@@ -187,6 +187,11 @@ nav button{
 }
 
 .featured_container {
-    
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;  
+}
+.featured .post_thumbnail {
+    height: fit-content;
 }
 
