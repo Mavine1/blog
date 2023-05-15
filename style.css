@@ -181,4 +181,12 @@ nav button{
     border-radius: var(--card-border-radius-3);
     overflow: hidden;
 }
+/*-----Featured----*/
+.featured {
+    margin-top: 8rem;
+}
+
+.featured_container {
+    
+}
 
