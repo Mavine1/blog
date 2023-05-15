@@ -166,5 +166,7 @@ nav button{
     overflow: hidden;
     margin-bottom: 1.6rem;
 }
-.post:hover .post
+.post:hover .post_thumbnail img {
+    filter: saturate(0);
+}
 
