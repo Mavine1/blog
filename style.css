@@ -170,4 +170,8 @@ nav button{
     filter: saturate(0);
     transition: filter 500ms ease;
 }
+.post_author {
+    display: flex;
+    gap:;
+}
 
