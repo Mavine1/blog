@@ -194,10 +194,3 @@ nav button{
 .featured .post_thumbnail {
     height: fit-content;
 }
-
-/*--###-posts-###-*/
-.posts_container {
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-}
-
