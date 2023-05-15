@@ -233,5 +233,8 @@ footer {
 }
 .footer_socials {
     margin-inline: auto;
+    width: fit-content;
+    margin-bottom: 5rem;
+    display: ;
 }
 
