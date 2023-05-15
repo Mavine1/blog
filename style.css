@@ -147,6 +147,9 @@ nav button{
 /*....Featured css....*/
 .category_button{
   background: var(--color-primary-light);
-  color: var(--color)  
+  color: var(--color-primary);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: var(--card-border-radius-2);  
 }
 
