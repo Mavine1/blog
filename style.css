@@ -216,4 +216,9 @@ margin-bottom: 5rem;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 }
+.category_button-container {
+    width: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 1)
+}
 
