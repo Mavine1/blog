@@ -206,7 +206,7 @@ margin-bottom: 5rem;
 /*---Category----*/
 .category_buttons {
     padding: 4rem 0;
-    border-top: 2px solid var var(--color-gray-700);
+    border-top: 2px solid var(--color-gray-700);
     border-bottom: 2px solid var(--color-gray-700);
 }
 
