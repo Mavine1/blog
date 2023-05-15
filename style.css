@@ -159,5 +159,8 @@ nav button{
 .category_button:hover{
     color: var(--color-white);
 }
-
+/*-----General Post---*/
+.post_thumbnail{
+    border-radius: var(--);
+}
 
