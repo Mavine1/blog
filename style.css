@@ -203,5 +203,9 @@ gap: 5rem;
 margin-bottom: 5rem;
 }
 
-/*
+/*---Category----*/
+.category_button {
+    padding: 4rem 0;
+    border-top: 2px solid var (--) ;
+}
 
