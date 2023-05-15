@@ -172,6 +172,10 @@ nav button{
 }
 .post_author {
     display: flex;
-    gap:;
+    gap:1rem;
+    margin-top: 1.2rem;
+}
+.post_author-avatar {
+    width: ;
 }
 
