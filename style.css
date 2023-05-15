@@ -130,6 +130,8 @@ nav button{
     opacity: 0;
     transition: var(--transition);
 }
+/* profile is hovered*/
+
 .nav_profile:hover > ul{
     visibility:visible;
     opacity: 1;
