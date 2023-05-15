@@ -176,6 +176,9 @@ nav button{
     margin-top: 1.2rem;
 }
 .post_author-avatar {
-    width: ;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: var(--card-border-radius-3);
+    overflow: hidden;
 }
 
