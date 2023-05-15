@@ -227,6 +227,8 @@ margin-bottom: 5rem;
 /*---------footer----*/
 
 footer {
-    background:var() ;
+    background:var(--color-gray-700) ;
+    padding: 5rem 0 0;
+    box-shadow: ;
 }
 
