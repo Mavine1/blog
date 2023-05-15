@@ -210,5 +210,10 @@ margin-bottom: 5rem;
     border-bottom: 2px solid var(--color-gray-300);
 }
 
-.category_buttons-continer
+.category_buttons-container{
+    width: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
 
