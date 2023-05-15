@@ -235,6 +235,9 @@ footer {
     margin-inline: auto;
     width: fit-content;
     margin-bottom: 5rem;
-    display: ;
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+    gap: 1.2rem;
 }
 
