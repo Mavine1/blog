@@ -253,7 +253,8 @@ footer {
 
 .footer_socials a:hover{
     background:var(--color-white);
-    color:var(--)
+    color:var(--color-bg);
 }
+
 
 
