@@ -241,3 +241,8 @@ footer {
     gap: 1.2rem;
 }
 
+.footer_socials a {
+    background: var(--color-bg);
+    border-radius: 50%;
+}
+
