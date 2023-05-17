@@ -287,10 +287,15 @@ footer ul a:hover {
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
-    body {
-        background-color: #da0f3f;
-    }
-    
+ .container {
+    width: var(--container-width-md);
+ }
+ h2 {
+    font-size: 1.6rem;
+ }
+ h3 {
+font-size: 1.2rem;
+ }
 }
 
 
