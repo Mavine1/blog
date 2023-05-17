@@ -257,15 +257,16 @@ footer {
 }
 .footer_container {
     display: grid;
-    grid-template-columns: 4, 1fr;
+    grid-template-columns:repeat(4, 1fr) ;
 }
+
 footer h4 {
 color: var(--color-white);
 margin-bottom: 0.6rem;
 }
 
 footer ul a {
-    
+
 }
 
 
