@@ -8,4 +8,4 @@ const openNav = () => {
     openNavBtn.Style.display = 'inline-block';
 }
 openNavBtn.addEventListener('click', openNav);
-openNavBtn.addEventListener('click', openNav);
+closeNavBtn.addEventListener('click', closeNav);
