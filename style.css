@@ -353,6 +353,10 @@ font-size: 1.2rem;
     display: flex;
     align-items: center;
  }
+ .nav_items:hover > li{
+    visibility:visible;
+    opacity: 1;
+ }
  .nav_profile {
     background: var(--color-gray-900);
  }
