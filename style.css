@@ -317,7 +317,7 @@ font-size: 1.2rem;
     display: none;
  }
 
- .nav__container {
+ .nav_container {
     position: relative;
  }
 
@@ -330,7 +330,7 @@ font-size: 1.2rem;
     align-items: flex-start;
     justify-content: center;
     gap: 0;
-    display: none;
+    visibility: hidden;
 
  }
 
