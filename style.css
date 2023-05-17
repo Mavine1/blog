@@ -287,7 +287,7 @@ footer ul a:hover {
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
-    /*-----MEDIA QUERIES----*/
+    /*-----General----*/
  .container {
     width: var(--container-width-md);
  }
@@ -303,6 +303,8 @@ font-size: 1.2rem;
  h5 {
     font-size: 0.8rem;
  }
+
+ /*-----Nav----*/
 }
 
 
