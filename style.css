@@ -259,6 +259,14 @@ footer {
     display: grid;
     grid-template-columns: 4, 1fr;
 }
+footer h4 {
+color: var(--color-white);
+margin-bottom: 0.6rem;
+}
+
+footer ul a {
+    
+}
 
 
 
