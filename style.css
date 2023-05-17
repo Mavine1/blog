@@ -353,7 +353,11 @@ font-size: 1.2rem;
     align-items: center;
  }
  .nav_profile {
-    background: var;
+    background: var(--color-gray-900);
+ }
+ .nav_profile ul {
+    top: 100%;
+    width
  }
  }
 
