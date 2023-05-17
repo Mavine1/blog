@@ -93,7 +93,7 @@ box-shadow: 0 1rem 1rem rgba(0,0,0,0.2);
 nav button{
     display:none;
 }
-.nav_container{
+.nav__container{
     height:100%;
     display: flex;
     align-items: center;
@@ -361,7 +361,7 @@ font-size: 1.2rem;
     width: 100%;
  }
 
- .nav_profile .avatar {
+ .nav__profile .avatar {
     margin-left: 2rem;
     border: 0;
  }
