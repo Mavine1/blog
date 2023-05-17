@@ -357,7 +357,12 @@ font-size: 1.2rem;
  }
  .nav_profile ul {
     top: 100%;
-    width
+    width: 100%;
+ }
+
+ .nav_profile .avatar {
+    margin-left: 2rem;
+    border: 0;
  }
  }
 
