@@ -317,7 +317,7 @@ font-size: 1.2rem;
     display: none;
  }
 
- .nav_container {
+ .nav__container {
     position: relative;
  }
 
@@ -330,7 +330,7 @@ font-size: 1.2rem;
     align-items: flex-start;
     justify-content: center;
     gap: 0;
-    visibility: hidden;
+    display: none;
 
  }
 
@@ -352,10 +352,6 @@ font-size: 1.2rem;
     padding: 0 2rem;
     display: flex;
     align-items: center;
- }
- .nav_items:hover > li{
-    visibility:visible;
-    opacity: 1;
  }
  .nav_profile {
     background: var(--color-gray-900);
