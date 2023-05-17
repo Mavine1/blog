@@ -265,6 +265,9 @@ color: var(--color-white);
 margin-bottom: 0.6rem;
 }
 
+footer ul li {
+    padding: 0.4rem 0;
+}
 footer ul a {
 opacity: 0.75;
 }
