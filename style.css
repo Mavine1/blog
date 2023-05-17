@@ -350,6 +350,10 @@ font-size: 1.2rem;
     background: var(--color-gray-900);
     padding: 0 2rem;
     display: flex;
+    align-items: center;
+ }
+ .nav_profile {
+    background: var;
  }
  }
 
