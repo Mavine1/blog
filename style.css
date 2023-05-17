@@ -309,7 +309,8 @@ font-size: 1.2rem;
     display: inline-block;
     font-size: 1.5rem;
     background: transparent;
-    color:var
+    color: var(--color-white);
+    cursor: pointer;
  }
 }
 
