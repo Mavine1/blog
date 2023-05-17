@@ -4,6 +4,8 @@ const closeNavBtn = document.querySelector('#close_nav-btn');
 
 const openNav = () => {
     navItems.Style.display = 'flex';
-    openNavBtn.Style.display = 'none'
+    openNavBtn.Style.display = 'none';
+    openNavBtn.Style.display = 'inline-block';
 }
+openNavBtn.addEventListener('click', openNav);
 openNavBtn.addEventListener('click', openNav);
