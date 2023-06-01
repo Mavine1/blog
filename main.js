@@ -1,6 +1,6 @@
 const navItems = document.querySelector('.nav_items');
-const openNavBtn = document.querySelector('#open_nav-btn');
-const closeNavBtn = document.querySelector('#close_nav-btn');
+const openNavBtn = document.getElementById('#open_nav-btn');
+const closeNavBtn = document.getElementById('#close_nav-btn');
 
 // opens nav dropdown
 const openNav = () => {
