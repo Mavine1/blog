@@ -342,7 +342,7 @@ font-size: 1.2rem;
     box-shadow: -2rem 3rem 7rem rgba(0,0,0,0.7);
     background-color: var(--color-gray-900);
     border-top: 1px solid var(--color-bg);
-    animation: animationDropdown 4s 0s ease forwards;
+    animation: animationDropdown 400s 0s ease forwards;
     opacity: 0;
  }
 /* nav dropdown animation */
