@@ -300,9 +300,11 @@ footer ul a:hover {
     justify-content: space-between;
     overflow: hidden;
     padding:0.6rem 1rem;
-    border-radius:;
+    border-radius: var(--card-border-radius-2);
+    color:var(--color-grey-300);
 
 }
+.search_bar
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
