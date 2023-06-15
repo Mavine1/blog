@@ -409,8 +409,12 @@ font-size: 1.2rem;
         margin-top: 2rem;
     }
     h1 {
-        
+        font-size: 2rem;
     }
+    .featured_container{
+        margin-top: 6rem;
+    }
+    
 }
 
 
