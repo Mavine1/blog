@@ -388,6 +388,9 @@ font-size: 1.2rem;
     margin-left: 2rem;
     border: 0;
  }
+ .featured_container{
+    gap: 3rem;
+ }
  }
 
 
