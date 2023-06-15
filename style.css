@@ -350,7 +350,13 @@ font-size: 1.2rem;
     animation-delay: 200ms;
  }
  .nav_items li:nth-child(3){
-    animation-delay: 00ms;
+    animation-delay: 400ms;
+ }
+ .nav_items li:nth-child(4){
+    animation-delay: 600ms;
+ }
+ .nav_items li:nth-child(5){
+    animation-delay: 800ms;
  }
 /* nav dropdown animation */
 @keyframes animationDropdown {
