@@ -404,19 +404,13 @@ font-size: 1.2rem;
  /*
 ######### Media queries(medium Devices)
 */
-.container{
-    width: var(--container-width-md);
+@media screen and (max-width: 600px){
+    section {
+        margin-top: 2rem;
+    }
+    h1 {
+        
+    }
 }
-h2{
-    font-size: 1.6rem;
-}
-h3{
-    font-size: 1.2rem;
-}
-h5{
-    font-size: 0.8rem;
-}
-
-/* =========NAV=====*/
 
 
