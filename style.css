@@ -391,6 +391,10 @@ font-size: 1.2rem;
  .featured_container{
     gap: 3rem;
  }
+ .posts_container{
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+ }
  }
 
 
