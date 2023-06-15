@@ -286,7 +286,14 @@ footer ul a:hover {
     margin-top: 4rem;
 }
 
+/*------Search---*/
+.search_bar {
+    margin-top: 7rem;
+}
 
+.search_bar-container {
+    position
+}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
