@@ -283,7 +283,9 @@ footer ul a:hover {
     padding: 1.5rem 0;
     border-radius: 1.5rem 0;
     border-top: 2px solid var(--color-bg);
+    margin-top: 4rem;
 }
+
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
