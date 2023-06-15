@@ -309,7 +309,15 @@ footer ul a:hover {
     display: flex;
     align-items: center;
 }
-.search_bar input {}
+.search_bar input {
+    background: transparent;
+    margin-left: 0.7rem;
+    padding:0.5rem 0;
+    width: 100%;
+}
+.search_bar input::placeholder{
+    color: ;
+}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
