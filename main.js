@@ -1,12 +1,13 @@
 const navItems = document.querySelector('.nav_items');
-const openNavBtn = document.getElementById('#open_nav-btn');
-const closeNavBtn = document.getElementById('#close_nav-btn');
+const openNavBtn = document.getElementById('open_nav-btn');
+const closeNavBtn = document.getElementById('close_nav-btn');
 
 // opens nav dropdown
 const openNav = () => {
-    navItems.Style.display = 'flex';
-    openNavBtn.Style.display = 'none';
-    closeNavBtn.Style.display = 'inline-block';
+    navItems.style.display = 'flex';
+    openNavBtn.style.display = 'none';
+    closeNavBtn.style.display = 'inline-block';
+    
 }
 
 // close nav dropdown
