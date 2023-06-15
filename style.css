@@ -344,7 +344,9 @@ font-size: 1.2rem;
     border-top: 1px solid var(--color-bg);
     animation: animationDropdown 400s 0s ease forwards;
     opacity: 0;
+    transform: top;
  }
+ .nav_items li:
 /* nav dropdown animation */
 @keyframes animationDropdown {
     0%{
