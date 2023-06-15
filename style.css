@@ -304,7 +304,12 @@ footer ul a:hover {
     color:var(--color-grey-300);
 
 }
-.search_bar
+.search_bar-container > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.search_bar input {}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
