@@ -316,7 +316,7 @@ footer ul a:hover {
     width: 100%;
 }
 .search_bar input::placeholder{
-    color: ;
+    color: var(--color-gray-300);
 }
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
