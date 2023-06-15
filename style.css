@@ -414,6 +414,13 @@ font-size: 1.2rem;
     .featured_container{
         margin-top: 6rem;
     }
+    .featured_container{
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+    .posts_container{
+        grid-template-columns: 1fr;
+    }
     
 }
 
