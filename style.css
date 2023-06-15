@@ -421,7 +421,13 @@ font-size: 1.2rem;
     .posts_container{
         grid-template-columns: 1fr;
     }
-    
+    .category_buttons-container{
+        grid-template-columns: 1fr 1fr;
+    }
+    .footer_container {
+        grid-template-columns: 1fr;
+        
+    }
 }
 
 
