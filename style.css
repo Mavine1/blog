@@ -297,7 +297,11 @@ footer ul a:hover {
     background: var(--color-gray-900);
     display: flex;
     align-items: center;
-    justify-content: space;
+    justify-content: space-between;
+    overflow: hidden;
+    padding:0.6rem 1rem;
+    border-radius:;
+
 }
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
