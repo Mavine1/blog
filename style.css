@@ -467,10 +467,7 @@ font-size: 1.2rem;
 .search_bar-container {
     width: 60%;
 }
-/*###### singlePost ####*/
-.singlePost {
-    mar;
-}
+
  /*
 ######### Media queries(medium Devices)
 */
@@ -502,6 +499,10 @@ font-size: 1.2rem;
     /*###### Blog ####*/
 .search_bar-container {
     width: var(--container-width-md);
+}
+/*###### singlePost ####*/
+.singlePost {
+    background-color: tra;
 }
 }
 
