@@ -502,7 +502,8 @@ font-size: 1.2rem;
 }
 /*###### singlePost ####*/
 .singlePost {
-    background-color: tra;
+    background-color: transparent;
+    padding: 0;
 }
 }
 
