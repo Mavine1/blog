@@ -336,6 +336,11 @@ footer ul a:hover {
  margin: 6rem 0 2rem;
 }
 
+.singlepost_container {
+width:var(--form-width);
+background: var();
+}
+
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
