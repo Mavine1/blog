@@ -336,15 +336,18 @@ footer ul a:hover {
  margin: 6rem 0 2rem;
 }
 
-.singleost_container {
+.singlePost_container {
 width:var(--form-width);
 background: var(--color-gray-700);
 padding: 1rem 2rem 2rem;
 }
 .post_thumbnail{
-
+mar
 }
-
+.singlePost_container p{
+    margin-top: 1rem;
+    line-height: 1.7;
+}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
