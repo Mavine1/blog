@@ -339,10 +339,10 @@ footer ul a:hover {
 .singlePost_container {
 width:var(--form-width);
 background: var(--color-gray-700);
-padding: 1rem 2rem 2rem;
+padding: 1rem 2rem 3rem;
 }
 .singlePost_thumbnail{
-margin-top: 1.5rem;
+margin-top: 1.5rem 0 1rem;
 }
 .singlePost_container p{
     margin-top: 1rem;
