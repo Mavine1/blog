@@ -447,7 +447,9 @@ font-size: 1.2rem;
   }
  }
 /*###### Blog ####*/
-,
+.search_bar-container {
+    width: var(--container-width-md);
+}
 
  /*
 ######### Media queries(medium Devices)
@@ -477,6 +479,10 @@ font-size: 1.2rem;
         text-align: center;
         gap: 2rem;
     }
+    /*###### Blog ####*/
+.search_bar-container {
+    width: var(--container-width-md);
+}
 }
 
 
