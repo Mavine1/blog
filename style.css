@@ -318,7 +318,10 @@ footer ul a:hover {
 .search_bar input::placeholder{
     color: var(--color-gray-300);
 }
-
+/*##### Button ####*/
+.btn {
+    display: inline=;
+}
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
