@@ -320,7 +320,13 @@ footer ul a:hover {
 }
 /*##### Button ####*/
 .btn {
-    display: inline=;
+    display: inline-block;
+    width: fit-content;
+    padding: 0.6rem 1.2rem;
+    background-color: var(--color-primary);
+    border-radius: var(--card-border-radius-2);
+    cursor: pointer;
+    transition: var(--transition);
 }
 
 /*-----MEDIA QUERIES----*/
