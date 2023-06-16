@@ -341,8 +341,8 @@ width:var(--form-width);
 background: var(--color-gray-700);
 padding: 1rem 2rem 2rem;
 }
-.post_thumbnail{
-mar
+.singlePost_thumbnail{
+margin-top: 1.5rem;
 }
 .singlePost_container p{
     margin-top: 1rem;
