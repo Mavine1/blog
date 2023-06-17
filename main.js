@@ -22,6 +22,8 @@ const showSideBtn = document.querySelector('#show_sidebar-btn');
 const hideSideBtn = document.querySelector('#hide_sidebar-btn');
 
 const showSidebar = () => {
-  sidebar.style.left = '0'
+  sidebar.style.left = '0';
 }
+
+showSidebarBtn.addEventListener('click',showSidebar);
  
