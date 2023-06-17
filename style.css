@@ -612,9 +612,7 @@ font-size: 1.2rem;
     padding: 0;
     background: transparent;
 }
-.dashboard aside{
-    /*background:var(--color-primary);*/
-}
+
 .dashboard aside h5{
     display: none;
 }
