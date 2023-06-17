@@ -372,7 +372,12 @@ margin-top: 1.5rem 0 1rem;
     height: 100vh;
 }
 .form_section-container{
-    width: ;
+    width: var(--form-width);
+}
+.alert_message{
+    background: red;
+    padding: 0.8rem 1.4rem;
+    
 }
 
 /*-----MEDIA QUERIES----*/
