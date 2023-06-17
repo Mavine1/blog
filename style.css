@@ -405,6 +405,13 @@ input, textarea, select{
     resize: none;
     color:var(--color-white);
 }
+.form_section small{
+    margin-top: 1rem;
+    display: block;
+}
+.form_section small a{
+    color: var(--color-primary);
+}
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
