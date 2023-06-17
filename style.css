@@ -600,7 +600,7 @@ font-size: 1.2rem;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
   }
- }
+ 
 /*###### Blog ####*/
 .search_bar-container {
     width: 60%;
@@ -683,7 +683,17 @@ font-size: 1.2rem;
     gap: 0;
 }
 .dashboard main{
-    margin-top: ;
+    margin:0;
+}
+.dashboard main h2{
+    margin-top: 1rem;
+}
+.dashboard aside{
+    position: fixed;
+    box-shadow: 2rem 0 4rem rgba(0,0,0,0.4);
+    left: 0;
+    height: 100vh;
+    transition: var(--transition);
 }
 }
 
