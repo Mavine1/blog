@@ -433,6 +433,9 @@ input, textarea, select{
 .dashboard{
     margin-top: 6rem;
 }
+.sidebar_toggle{
+    display: none;
+}
 .dashboard_container{
     display: grid;
     grid-template-columns: 14rem auto;
