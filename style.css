@@ -471,8 +471,9 @@ input, textarea, select{
  .dashboard main table th{
     background: var(--color-gray-700);
     padding: 0.8rem;
-    color: var();
+    color: var(--color-white);
  }
+ 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
