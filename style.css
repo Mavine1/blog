@@ -441,7 +441,10 @@ input, textarea, select{
     padding: 2rem;
     margin-bottom: 5rem;
 }
-
+.dashboard aside a{
+    background-color: var(--color-primary);
+    display: ;
+}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
