@@ -339,6 +339,10 @@ footer ul a:hover {
 .btn.danger{
    background: var(--color-red);
 }
+.btn:hover{
+    background: var(--color-white);
+    color: var();
+}
 
 /* ------Single post-----*/
 .singlePost {
