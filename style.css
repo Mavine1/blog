@@ -606,7 +606,10 @@ font-size: 1.2rem;
 .form_section-container{
     padding: 3rem;
 }
-
+/*###### Dashboard ####*/
+.dashboard_container{
+    
+}
  /*
 ######### Media queries(medium Devices)
 */
