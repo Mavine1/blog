@@ -608,7 +608,12 @@ font-size: 1.2rem;
 }
 /*###### Dashboard ####*/
 .dashboard_container{
-    
+    grid-template-columns: 4.3rem auto;
+    padding: 0;
+    background: transparent;
+}
+.dashboard aside{
+    background:va
 }
  /*
 ######### Media queries(medium Devices)
