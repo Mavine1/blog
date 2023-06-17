@@ -712,6 +712,9 @@ font-size: 1.2rem;
     cursor: pointer;
     box-shadow: -1rem 0 2rem rgba(0,0,0,0.4);
 }
+#hide_sidebar-btn {
+    display: none;
+}
 }
 
 
