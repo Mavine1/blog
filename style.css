@@ -341,7 +341,7 @@ footer ul a:hover {
 }
 .btn:hover{
     background: var(--color-white);
-    color: var();
+    color: var(--color-bg);
 }
 
 /* ------Single post-----*/
@@ -430,6 +430,12 @@ input, textarea, select{
     color: var(--color-white);
 }
 /*-----DASHBOARD----*/
+.dashboard{
+    margin-top: 6rem;
+}
+.dashboard_container{
+    display: grid;
+}
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
