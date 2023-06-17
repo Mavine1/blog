@@ -385,8 +385,15 @@ margin-top: 1.5rem 0 1rem;
 }
 .alert_message.success{
     background: var(--color-green-light);
+    color: var(--color-green);
+}
+form {
+    display:flex;
+    flex-direction: column;
+    gap: 1rem;
 }
 
+.form
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
