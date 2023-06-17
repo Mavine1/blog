@@ -381,7 +381,10 @@ margin-top: 1.5rem 0 1rem;
 }
 .alert_message.error{
     background: var(--color-red-light);
-    
+    color: var(--color-red);
+}
+.alert_message.success{
+    background: var(--color-green-light);
 }
 
 /*-----MEDIA QUERIES----*/
