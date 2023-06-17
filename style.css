@@ -349,7 +349,15 @@ margin-top: 1.5rem 0 1rem;
     line-height: 1.7;
 }
 
-/
+/* ------Category Post----*/
+
+.category_title{
+    height: 15rem;
+    margin-top: 4.5rem;
+    background: var(--color-gray-700);
+    display:grid;
+    place-items: center;
+}
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
