@@ -533,7 +533,9 @@ font-size: 1.2rem;
     width: 60%;
 }
 /*###### Blog ####*/
-.form_section-con
+.form_section-container{
+    padding: 3rem;
+}
 
  /*
 ######### Media queries(medium Devices)
