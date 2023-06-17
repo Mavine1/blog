@@ -23,6 +23,8 @@ const hideSidebarBtn = document.getElementById('hide_sidebar-btn');
 
 const showSidebar = () => {
   sidebar.style.left = '0';
+  showSidebarBtn.style.display ='none';
+  hideSidebarBtn.style.display
 }
 
 showSidebarBtn.addEventListener('click', showSidebar);
