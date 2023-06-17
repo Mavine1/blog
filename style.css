@@ -477,7 +477,12 @@ input, textarea, select{
     padding: 0.8rem;
     border-bottom: 1px solid var(--color-gray-200);
  }
- .dashboard main table tr:hover td
+ .dashboard main table tr:hover td{
+    background-color: var(--color-bg);
+    color: var(--color-white);
+    cursor: default;
+    transition: var(--transition);
+ }
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
