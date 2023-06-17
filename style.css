@@ -625,7 +625,11 @@ font-size: 1.2rem;
     display: flex;
     flex-direction: column;
 }
-.dashboard main table tr:nth-child()
+.dashboard main table tr:nth-child(even)
+{
+    background: var(--color-gray-900);
+}
+.das
  /*
 ######### Media queries(medium Devices)
 */
