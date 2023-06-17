@@ -28,11 +28,11 @@ const showSidebar = () => {
   hideSidebarBtn.style.display ='inline-block';
 }
 
-//shows on sidebar on small divices
+//hide on sidebar on small divices
 const hideSidebar = () => {
-  sidebar.style.left = '0';
-  showSidebarBtn.style.display ='none';
-  hideSidebarBtn.style.display ='inline-block';
+  sidebar.style.left = '-100%';
+  showSidebarBtn.style.display ='inline-block';
+  hideSidebarBtn.style.display ='none';
 }
 
 showSidebarBtn.addEventListener('click', showSidebar);
