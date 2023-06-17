@@ -613,7 +613,13 @@ font-size: 1.2rem;
     background: transparent;
 }
 .dashboard aside{
-    background:va
+    /*background:var(--color-primary);*/
+}
+.dashboard aside h5{
+    display: none;
+}
+.dashboard main table thead{
+    d
 }
  /*
 ######### Media queries(medium Devices)
