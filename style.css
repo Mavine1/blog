@@ -619,7 +619,7 @@ font-size: 1.2rem;
     display: none;
 }
 .dashboard main table thead{
-    d
+    display: none;
 }
  /*
 ######### Media queries(medium Devices)
