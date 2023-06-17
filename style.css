@@ -457,7 +457,13 @@ input, textarea, select{
 .dashboard aside a.active{
     background-color: var(--color-gray-900);
 }
- .da
+ .dashboard main{
+    margin-left: 2rem;
+ }
+ .dashboard main h2{
+  margin: 0 0 2rem 0;
+  line-height: 1;
+ }
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
