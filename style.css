@@ -358,6 +358,7 @@ margin-top: 1.5rem 0 1rem;
     display:grid;
     place-items: center;
 }
+/*-----
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
