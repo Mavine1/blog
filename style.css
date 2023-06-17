@@ -633,6 +633,7 @@ font-size: 1.2rem;
 .dashboard main table tr:hover td{
     background: transparent;
 }
+}
  /*
 ######### Media queries(medium Devices)
 */
@@ -694,6 +695,7 @@ font-size: 1.2rem;
     left: 0;
     height: 100vh;
     transition: var(--transition);
+    background: var(--color-primary);
 }
 }
 
