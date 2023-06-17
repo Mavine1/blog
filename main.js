@@ -18,12 +18,11 @@ openNavBtn.addEventListener('click', openNav);
 closeNavBtn.addEventListener('click', closeNav);
 
 const sidebar = document.querySelector('aside');
-const showSideBtn = document.getElementById('show_sidebar-btn');
-const hideSideBtn = document.getElementById('hide_sidebar-btn');
+const showSidebarBtn = document.getElementById('show_sidebar-btn');
+const hideSidebarBtn = document.getElementById('hide_sidebar-btn');
 
 const showSidebar = () => {
   sidebar.style.left = '0';
 }
 
-showSidebarBtn.addEventListener('click',showSidebar);
- 
+showSidebarBtn.addEventListener('click', showSidebar);
