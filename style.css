@@ -400,7 +400,10 @@ form {
 }
 input, textarea, select{
     padding: 0.8rem 1.4rem;
-    background-color:var(--color)
+    background-color:var(--color-gray-900);
+    border-radius: var(--card-border-radius-2);
+    resize: none;
+    color:var(--color-white);
 }
 
 /*-----MEDIA QUERIES----*/
