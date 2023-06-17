@@ -393,7 +393,15 @@ form {
     gap: 1rem;
 }
 
-.form
+.form_control {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+input, textarea, select{
+    
+}
+
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
