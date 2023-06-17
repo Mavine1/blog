@@ -443,8 +443,12 @@ input, textarea, select{
 }
 .dashboard aside a{
     background-color: var(--color-primary);
-    display: ;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    padding: 1.6rem;
 }
+
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
