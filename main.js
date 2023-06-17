@@ -20,4 +20,8 @@ closeNavBtn.addEventListener('click', closeNav);
 const sidebar = document.querySelector('aside');
 const showSideBtn = document.querySelector('#show_sidebar-btn');
 const hideSideBtn = document.querySelector('#hide_sidebar-btn');
+
+const showSidebar = () => {
+  sidebar.style.left = '0'
+}
  
