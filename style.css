@@ -576,7 +576,9 @@ font-size: 1.2rem;
     padding: 0;
 }
 /*------General Form---*/
-.form_section
+.form_section-container{
+    padding: 0;
+}
 }
 
 
