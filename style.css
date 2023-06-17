@@ -366,9 +366,13 @@ margin-top: 1.5rem 0 1rem;
     place-content: center;
 }
 /*-----General Form----*/
-.form_section-container{
+.form_section{
     display: grid;
-    place
+    place-items: center;
+    height: 100vh;
+}
+.form_section-container{
+    width: ;
 }
 
 /*-----MEDIA QUERIES----*/
