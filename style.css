@@ -452,7 +452,7 @@ input, textarea, select{
     border-bottom: 1px solid var(--color-gray-900);
 }
 .dashboard aside a:hover{
-    background: var(--color-gray-700);
+    background: var(--);
 }
 .dashboard aside a.active{
     background-color: var(--color-gray-900);
