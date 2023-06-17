@@ -703,7 +703,14 @@ font-size: 1.2rem;
     color: var(--color-white);
     position: fixed;
     right: 0;
-    
+    bottom: 4rem;
+    z-index: 1;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50% 0 0 50%;
+    font-size: 1.3rem;
+    cursor: pointer;
+    box-shadow: -1rem 0 2;
 }
 }
 
