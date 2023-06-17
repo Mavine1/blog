@@ -20,6 +20,7 @@ closeNavBtn.addEventListener('click', closeNav);
 const sidebar = document.querySelector('aside');
 const showSidebarBtn = document.getElementById('show_sidebar-btn');
 const hideSidebarBtn = document.getElementById('hide_sidebar-btn');
+
 //shows on sidebar on small divices
 const showSidebar = () => {
   sidebar.style.left = '0';
@@ -27,4 +28,13 @@ const showSidebar = () => {
   hideSidebarBtn.style.display ='inline-block';
 }
 
+//shows on sidebar on small divices
+const hideSidebar = () => {
+  sidebar.style.left = '0';
+  showSidebarBtn.style.display ='none';
+  hideSidebarBtn.style.display ='inline-block';
+}
+
 showSidebarBtn.addEventListener('click', showSidebar);
+hideSidebarBtn.addEventListener('click', hideSidebar);
+
