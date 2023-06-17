@@ -332,6 +332,14 @@ footer ul a:hover {
 
 }
 
+.btn.sm{
+    padding: 0.3rem 0.7rem;
+    font-size: 0.8rem;
+}
+.btn.danger{
+   background: var;
+}
+
 /* ------Single post-----*/
 .singlePost {
  margin: 6rem 0 2rem;
