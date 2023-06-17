@@ -417,6 +417,7 @@ input, textarea, select{
 .form_section small a{
     color: var(--color-white);
 }
+/*-----DASHBOARD----*/
 
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
