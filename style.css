@@ -621,6 +621,11 @@ font-size: 1.2rem;
 .dashboard main table thead{
     display: none;
 }
+.dashboard main table tr{
+    display: flex;
+    flex-direction: column;
+}
+.dashboard main table tr:nth-child()
  /*
 ######### Media queries(medium Devices)
 */
