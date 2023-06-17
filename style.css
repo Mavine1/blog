@@ -629,7 +629,9 @@ font-size: 1.2rem;
 {
     background: var(--color-gray-900);
 }
-.das
+.dashboard main table tr:hover td{
+    background: transparent;
+}
  /*
 ######### Media queries(medium Devices)
 */
