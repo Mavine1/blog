@@ -3,7 +3,7 @@ const openNavBtn = document.getElementById('open_nav-btn');
 const closeNavBtn = document.getElementById('close_nav-btn');
 
 const openNav = () => {
-  navContainer.style.display = 'flex';
+  navContainer.style.display = 'none';
   openNavBtn.style.display = 'none';
   closeNavBtn.style.display = 'inline-block';
 };
