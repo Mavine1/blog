@@ -473,7 +473,10 @@ input, textarea, select{
     padding: 0.8rem;
     color: var(--color-white);
  }
- 
+ .dashboard main table td{
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--color-gray-200);
+ }
 /*-----MEDIA QUERIES----*/
 @media screen and (max-width:1024px) {
     /*-----General----*/
