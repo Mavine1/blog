@@ -411,7 +411,7 @@ input, textarea, select{
     display: block;
 }
 .form_section small a{
-    color: wheat
+    color: var(--color-white);
 }
 
 /*-----MEDIA QUERIES----*/
