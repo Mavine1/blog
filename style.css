@@ -337,7 +337,7 @@ footer ul a:hover {
     font-size: 0.8rem;
 }
 .btn.danger{
-   background: var;
+   background: var(--color-red);
 }
 
 /* ------Single post-----*/
