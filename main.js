@@ -1,15 +1,15 @@
-const navContainer = document.querySelector('.nav_items');
+const navItems = document.querySelector('.nav_items');
 const openNavBtn = document.getElementById('open_nav-btn');
 const closeNavBtn = document.getElementById('close_nav-btn');
 
 const openNav = () => {
-  navContainer.style.display = 'none';
+  navItems.style.display = 'flex';
   openNavBtn.style.display = 'none';
   closeNavBtn.style.display = 'inline-block';
 };
 
 const closeNav = () => {
-  navContainer.style.display = 'none';
+  navItems.style.display = 'none';
   openNavBtn.style.display = 'inline-block';
   closeNavBtn.style.display = 'none';
 };
