@@ -56,7 +56,7 @@ width: 100w;
 
 /* Add to posts on index if there is no featured post. eg .Search Results Page*/
 .section_extra-margin {
-    margin-top: ;
+    margin-top: 7rem;
 }
 h1,h2,h3,h4,h5{
     color:var(--color-white);
@@ -405,6 +405,9 @@ margin-top: 1.5rem 0 1rem;
 .alert_message.success{
     background: var(--color-green-light);
     color: var(--color-green);
+}
+.alert_message.lg{
+    text-align:center;
 }
 form {
     display:flex;
