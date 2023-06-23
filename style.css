@@ -54,7 +54,10 @@ margin-top: 3rem;
 width: 100w;
 }
 
-/* Add to posts
+/* Add to posts on index if there is no featured post. eg .Search Results Page*/
+.section_extra-margin {
+    margin-top: ;
+}
 h1,h2,h3,h4,h5{
     color:var(--color-white);
     line-height:1.3;
